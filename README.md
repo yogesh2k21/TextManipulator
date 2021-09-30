@@ -44,7 +44,7 @@ and run
     
 ## Demo video
 
-https://user-images.githubusercontent.com/52989607/135516341-758cb0ad-5b58-4c49-97dd-cdfa0dbfdf40.mp4
+https://user-images.githubusercontent.com/52989607/135518272-2a0ade15-bed5-427c-ba81-6a823665f13f.mp4
 
 ## Screenshots
 
