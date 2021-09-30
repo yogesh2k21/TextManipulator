@@ -42,11 +42,15 @@ and run
   python manage.py runserver
 ```
     
-## Demo
+## Demo video
 
-
-
+https://user-images.githubusercontent.com/52989607/135516341-758cb0ad-5b58-4c49-97dd-cdfa0dbfdf40.mp4
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (55)](https://user-images.githubusercontent.com/52989607/135513409-e243d09f-9122-4fae-abdd-2d6e5ee7286d.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/52989607/135513428-1fe5dfa2-580b-4238-95f3-64cd3953e194.png)
+
+
